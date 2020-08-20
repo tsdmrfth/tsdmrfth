@@ -21,5 +21,5 @@
 
 <p align="center"> 
 <a href="https://twitter.com/tsdmrfth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tsdmrfth" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/fatihtasdemir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fatihtasdemir" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/fatih-tasdemir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fatihtasdemir" height="30" width="30" /></a>
 </p>
