@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsdmrfth" alt="tsdmrfth" /> </p>
 
-- 🔭 I’m currently working on **Looking For Car Park and Getlug**
+- 🔭 I’m currently working at **Fleet Operations**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/fatihtasdemir/Personal-portfolio-0a1476086b6d44ebbde30183ab693f69](https://www.notion.so/fatihtasdemir/Personal-portfolio-0a1476086b6d44ebbde30183ab693f69)
 
