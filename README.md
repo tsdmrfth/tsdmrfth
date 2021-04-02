@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **React Native, JavaScript**
 
-- 📫 How to reach me **tsdmrfth@gmail.com**
-
-- ⚡ **Cats must rule the world**
+- 📫 Reach me at **tsdmrfth@gmail.com**
 
 - 😡 **I HATE ANDROID AND CONTINIOUS INTEGRATION CONFIGS!**
 
